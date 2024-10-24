@@ -93,11 +93,10 @@
 			"value": "DTI",
 			"valueIRI": "http://uri.interlex.org/ilx_0103240"
       	},
-	    {
     	"information": {
         	"value": "Basic demographic",
 			"valueIRI": "http://uri.interlex.org/ilx_0103016"
-      }
+        }
     }
   ],
   "version": "2022",
