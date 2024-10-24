@@ -277,7 +277,7 @@
       "category": "derivedFrom",
       "values": [
         {
-          "value": "The Courtois Project on Neuronal Modelling - Raw data - sub-01, sub-03, sub-05"
+          "value": "https://github.com/conpdatasets/cneuromod/"
         }
       ]
     },
